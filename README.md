@@ -1,6 +1,9 @@
 # Computational Photography
 Goal: Learn more about computational photography
+
 Goal: Use computational photography on at least a simple example
+
+TODO: This should probably be organized into a table of contents with sub-pages so it doesn't get too big or busy.
 
 ## Specific Interests
 Ben:
